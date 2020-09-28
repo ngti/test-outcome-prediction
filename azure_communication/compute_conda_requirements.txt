@@ -1,0 +1,6 @@
+numpy>=1.16.0,<=1.16.2
+pandas>=0.21.0,<=0.23.4
+py-xgboost<=0.90
+fbprophet==0.5
+setuptools-git
+psutil>5.0.0,<6.0.0

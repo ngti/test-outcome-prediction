@@ -1,0 +1,10 @@
+[
+    {
+        "jenkins_name": "Example-iOS-Project",
+        "github_name": "example-ios"
+    },
+    {
+        "jenkins_name": "Example-Android-Project",
+        "github_name": "example-android"
+    }
+]
